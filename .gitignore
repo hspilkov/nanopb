@@ -2,9 +2,6 @@
 *.gcno
 *.gcov
 *.o
-*.pb.c
-*.pb.h
-*.pb
 *.pyc
 *_pb2.py
 *~
