@@ -1,4 +1,3 @@
-
 syntax = "proto2";
 
 message Sensors {
@@ -12,6 +11,7 @@ message Sensors {
     required uint32 wheelRearLeft = 8;
     required uint32 wheelRearRight = 9;
     required uint32 buttonState = 10;
+    required uint32 lightReading = 11;
 }
 
 message Control {
